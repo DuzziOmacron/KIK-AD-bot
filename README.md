@@ -7,3 +7,4 @@ Will login to account(s) that you save in credentials.txt and send a predefined 
 # Prerequisites
 Must have the following installed: https://github.com/tomer8007/kik-bot-api-unofficial
 
+# Setting it all up
