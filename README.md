@@ -5,6 +5,9 @@ This is a bot that can be used to advertise your group chat, or just to spam. ID
 Will login to account(s) that you save in credentials.txt and send a predefined message that is saved in startup.py and send it to all usernames/JIDs that is saved in usernames.txt
 
 # Prerequisites
-Must have the following installed: https://github.com/tomer8007/kik-bot-api-unofficial
+```
+git clone -b new https://github.com/Mac0r0ni/kik-api-kik-ad-bot
+pip3 install ./kik-api-kik-ad-bot
+```
 
 # Setting it all up
